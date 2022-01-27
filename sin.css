@@ -12,10 +12,10 @@ body{
     background: #fff;
     max-width: 400px;
     width: 100%;
-    margin: 120px;
+    /* margin: 120px; */
     margin-left: 100px;
     margin-top: 9px;
-    padding: 25px;
+    /* padding: 25px; */
     border-radius: 5px;
     box-shadow: 3px 10px 15px rgba(0,0,0,0.1);
   }
@@ -29,7 +29,7 @@ body{
   max-width: 400px;
   width: 100%;
   /* margin-left: 1000px; */
-  padding: 25px;
+  /* padding: 25px; */
   border-radius: 5px;
   box-shadow: 3px 10px 15px rgba(0,0,0,0.7);
 }
@@ -71,4 +71,10 @@ font-family: 'Playfair Display', serif;
 display: inline-block;
 /* margin: 0.00001% 0 0; */
 }
-
+.end{
+  font-size: 3rem;
+  margin-left: 3rem;
+  margin-top: 4rem;
+  color: rgb(18, 18, 126);
+  font-style: italic;
+}
